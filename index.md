@@ -5,6 +5,9 @@
 header {
   display: none;
 }
+  body, html {
+  height: 100%;
+}
 * {box-sizing:border-box}
 /* Slideshow container */
 .slideshow-container {
