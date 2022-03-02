@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<link rel="stylesheet" href="css.css">
 <title>Page Title</title>
 </head>
 <body>
@@ -46,6 +47,8 @@
   <span class="dot" onclick="currentSlide(4)"></span>
 </div>
   </body>
+ 
+<script src="script.js"></script>
 </html>
 
 
