@@ -1,10 +1,6 @@
 
 <Style>
-  @import "{{ site.theme }}";
 
-header {
-  display: none;
-}
   body, html {
   height: 100%;
 }
