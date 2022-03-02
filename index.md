@@ -8,7 +8,7 @@ header {
 * {box-sizing:border-box}
 /* Slideshow container */
 .slideshow-container {
-  max-width: 1000px;
+  max-width: 100%;
   position: relative;
   margin: auto;
 }
