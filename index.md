@@ -1,42 +1,5 @@
 <Style>
-
-section {
-  display: -webkit-flex;
-  display: flex;
-  font-family: Arial;
-}
-
-h1{
-  font-family: UTM bebas;
-  font-size: 40px;
-  color: #cdd303;
-}
-.work-wrap {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-.work-item {
-  color: black;
-  font-size: 25px;
-  line-height: 40px;
-  text-align: justify;
-}
-
-.work-item:nth-child(1) {
-  order: 1;
-  width: 40%;
-  padding: 5px;
-  
-}
-.work-item:nth-child(2) {
-  order: 2;
-  width: 60%;
-  padding: 5px;
-}
-
 * {box-sizing:border-box}
-
 /* Slideshow container */
 .slideshow-container {
   max-width: 1000px;
@@ -45,7 +8,7 @@ h1{
 }
 
 /* Hide the images by default */
-.mySlides {
+.mySlides{
   display: none;
 }
 
@@ -132,15 +95,7 @@ h1{
 
 </Style>
 <!-- CONTENT 1 -->
-<section>
-<div class="work-wrap">
-<div class="work-item">
-<h1>
-1.Plan ADD Việt Nam là ai?
-</h1>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ac nisi a sapien sollicitudin luctus ac eu turpis. Duis nec purus in nibh condimentum iaculis quis id magna. Nullam euismod.
-</div>
-<div class="work-item">
+
 <div class="slideshow-container">
 
   <!-- Full-width images with number and caption text -->
@@ -182,20 +137,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ac nisi a sapie
   <span class="dot" onclick="currentSlide(4)"></span>
 </div>
 
-</div> </div>
-</section>
 
 <section>
-  <!-- CONTENT 2 -->
-<h1>
- 2. Lịch sử hình thành và phát triển Plan ADD Việt Nam
-</h1>
-</section>
-<section>
-
-</section>
-
-<!-- CONTENT 3 -->
 <script>
 var slideIndex = 1;
 showSlides(slideIndex);
