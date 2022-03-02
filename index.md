@@ -1,5 +1,9 @@
+<!DOCTYPE html>
 <html>
-<!-- CONTENT 1 -->
+<head>
+<title>Page Title</title>
+</head>
+<body>
 1. some change here
 <div class="slideshow-container">
 
@@ -41,6 +45,7 @@
   <span class="dot" onclick="currentSlide(3)"></span>
   <span class="dot" onclick="currentSlide(4)"></span>
 </div>
+  </body>
 </html>
 
 
