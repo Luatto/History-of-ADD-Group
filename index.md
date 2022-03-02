@@ -5,7 +5,6 @@
 <title>Page Title</title>
 </head>
 <body>
-1. some change here
 <div class="slideshow-container">
 
   <!-- Full-width images with number and caption text -->
