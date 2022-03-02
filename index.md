@@ -1,4 +1,10 @@
+
 <Style>
+  @import "{{ site.theme }}";
+
+header {
+  display: none;
+}
 * {box-sizing:border-box}
 /* Slideshow container */
 .slideshow-container {
@@ -94,6 +100,7 @@
 }
 
 </Style>
+<html>
 <!-- CONTENT 1 -->
 
 <div class="slideshow-container">
@@ -139,6 +146,7 @@
 
 
 <section>
+</html>
 <script>
 var slideIndex = 1;
 showSlides(slideIndex);
