@@ -1,7 +1,7 @@
 <html>
 <head>
 <link rel="stylesheet" href="css.css">
-<title>Page Title</title>
+<title>Luat test VPA Slideshow</title>
 </head>
 <body>
 <div class="slideshow-container">
