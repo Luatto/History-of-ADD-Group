@@ -4,8 +4,8 @@
   body, html {
   width: 100%;
   height: 100%;
-  display: inline-block;
-  vertical-align: top;
+	z-index: 1000; // or any value higher than your other elements
+	position: absolute;
 }
 title{
 color: white;
