@@ -11,25 +11,25 @@
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
     <div class="numbertext">1 / 4</div>
-    <img src="logo.jpg" style="width:100%">
+    <img src="history1.jpg" style="width:100%">
     <div class="text">Caption Text</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">2 / 4</div>
-    <img src="https://readtoolead.com/wp-content/uploads/2019/07/wooden-building.png" style="width:100%">
+    <img src="history2.jpg" style="width:100%">
     <div class="text">Caption Two</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">3 / 4</div>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2mCqLNFVBZsYaqmbB3dst5ScyosGqr0KuhQ&usqp=CAU" style="width:100%">
+    <img src="history3.jpg" style="width:100%">
     <div class="text">Caption Three</div>
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">2 / 4</div>
-    <img src="https://readtoolead.com/wp-content/uploads/2019/07/wooden-building.png" style="width:100%">
+    <img src="history4.jpg" style="width:100%">
     <div class="text">Caption 4</div>
   </div>
 
