@@ -1,7 +1,8 @@
 <html>
 <head>
+<meta charset="UTF-8">
+<title> Luat test VPA Slideshow </title>
 <link rel="stylesheet" href="css.css">
-<title>Luat test VPA Slideshow</title>
 </head>
 <body>
 <div class="slideshow-container">
