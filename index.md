@@ -2,12 +2,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title> Luat test VPA Slideshow </title>
 <link rel="stylesheet" href="css.css">
 </head>
 <body>
 <div class="slideshow-container">
-  <h1>test</h1>
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
     <div class="numbertext">1 / 4</div>
