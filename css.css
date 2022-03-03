@@ -1,15 +1,12 @@
-
-<Style>
-
   body, html {
   width: 100%;
   height: 100%;
 }
 .float{
   position: absolute;
+  width:100%;
   left: 0px;
   top: 0px;
-  width: 100%;
 }
 title{
 color: white;
@@ -108,4 +105,3 @@ color: white;
   to {opacity: 1}
 }
 
-</Style>
