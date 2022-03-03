@@ -2,6 +2,9 @@
   width: 100%;
   height: 100%;
 }
+h1{
+color: white;
+}
 .float{
   position: absolute;
   width:100%;
