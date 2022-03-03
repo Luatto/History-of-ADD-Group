@@ -9,7 +9,7 @@
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
     <div class="numbertext">1 / 4</div>
-    <img src="https://i.ytimg.com/vi/V4awZOrzyjo/maxresdefault.jpg" style="width:100%">
+    <img src="logo.jpg" style="width:100%">
     <div class="text">Caption Text</div>
   </div>
 
