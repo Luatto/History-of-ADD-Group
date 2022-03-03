@@ -1,15 +1,11 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<tytle>Luat test</tytle>
 <link rel="stylesheet" href="css.css">
 </head>
 <body>
-<h1>
-luat
-</h1>
-<div class="float">
 
+<div class="float">
 
 <div class="slideshow-container">
   <!-- Full-width images with number and caption text -->
