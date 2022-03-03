@@ -4,7 +4,6 @@
 <link rel="stylesheet" href="css.css">
 </head>
 <body>
-  <h2>test</h2>
 <div class="float">
 <div class="slideshow-container">
   <!-- Full-width images with number and caption text -->
